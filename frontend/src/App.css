@@ -1,0 +1,14 @@
+
+.app-shell {
+  min-height: 100vh;
+  background: linear-gradient(180deg, #eef2ff 0%, #f8fafc 60%, #f4f6fb 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+}
+
+.app-shell__content {
+  width: 100%;
+  max-width: 520px;
+}
